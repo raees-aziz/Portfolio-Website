@@ -20,7 +20,7 @@ const Header = () => {
             onClick={() => setNavOpen((prev) => !prev)}
           >
             <span className="">
-              {<img src={navOpen?"public/svg/cross.svg":"public/svg/hamburger.svg"}/>}
+              {<img src={navOpen?"/svg/cross.svg":"/svg/hamburger.svg"}/>}
             </span>
           </button>
           <Navbar navOpen={navOpen} />

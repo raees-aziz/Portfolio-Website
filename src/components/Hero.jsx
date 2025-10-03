@@ -36,7 +36,7 @@ const Hero = () => {
                 className="text-white"
                 height={15}
                 width={15}
-                src="/public/svg/download.svg"
+                src="/svg/download.svg"
                 alt="download"
                 />
             </button>{" "}
@@ -48,7 +48,7 @@ const Hero = () => {
                   className="animate-bounce"
                   height={15}
                   width={15}
-                  src="/public/svg/scroll-down.svg"
+                  src="/svg/scroll-down.svg"
                   alt="download"
                 />
               </button>

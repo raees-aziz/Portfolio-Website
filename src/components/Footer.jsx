@@ -69,7 +69,7 @@ const Footer = () => {
         <div className="flex items-center justify-center pt-10 mb-8">
           <a href="" className="logo reveal-up">
             <img
-              src="public/logo.svg"
+              src="/logo.svg"
               width={40}
               height={40}
               alt="logo"

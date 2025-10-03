@@ -6,19 +6,19 @@ const Work = () => {
     {
       imgSrc: "/images/project-1.png",
       title: "Fruit Store",
-      tags: [ "public/react.svg","public/framer-motion.svg", "public/tailwindcss.svg"],
+      tags: [ "/react.svg","/framer-motion.svg", "/tailwindcss.svg"],
       projectLink: "https://fruit-store-git-main-raees-projects-cf59c59c.vercel.app/",
     },
     {
       imgSrc: "/images/project-2.png",
       title: "MERN Chat Application",
-      tags: ["public/react.svg","public/nodejs.svg", "public/mongodb.svg","public/expressjs.svg","public/tailwindcss.svg","public/daisyui.jpeg"],
+      tags: ["/react.svg","/nodejs.svg", "/mongodb.svg","/expressjs.svg","/tailwindcss.svg","/daisyui.jpeg"],
       projectLink: "https://fullstack-chat-application-cns0.onrender.com/",
     },
     {
       imgSrc: "/images/project-3.png",
       title: "Account Create",
-      tags: ["public/react.svg","public/nodejs.svg", "public/expressjs.svg","public/tailwindcss.svg", "public/mongodb.svg"],
+      tags: ["/react.svg","/nodejs.svg", "/expressjs.svg","/tailwindcss.svg", "/mongodb.svg"],
       projectLink: "https://frontend-woad-sigma-86.vercel.app/",
     },
     // {

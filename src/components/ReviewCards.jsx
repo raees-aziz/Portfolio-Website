@@ -4,7 +4,7 @@ import React from "react";
 const ReviewCards = ({ content, name, imgSrc, company }) => {
   const ratings = new Array(5);
   ratings.fill({
-    icon: "public/star-icon.svg",
+    icon: "/star-icon.svg",
     style: { fontVariationSettings: '"FILL" 1' },
   });
 
