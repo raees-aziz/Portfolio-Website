@@ -73,7 +73,7 @@ const Contact = () => {
             {socialLinks.map(({ href, icon }, key) => (
               <a
                 key={key}
-                href=""
+                href={href}
                 target="_blank"
                 className="w-12 h-12 grid place-items-center ring-inset ring-2  ring-zinc-50/5 rounded-lg  transition-[background-color,color] hover:bg-zinc-50 hover:text-zinc-950 active:bg-zinc-50/80 reveal-up"
               >
