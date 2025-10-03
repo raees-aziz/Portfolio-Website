@@ -17,7 +17,7 @@ const Work = () => {
     },
     {
       imgSrc: "/images/project-3.png",
-      title: "Account Create",
+      title: "User Auth System",
       tags: ["/react.svg","/nodejs.svg", "/expressjs.svg","/tailwindcss.svg", "/mongodb.svg"],
       projectLink: "https://frontend-woad-sigma-86.vercel.app/",
     },
