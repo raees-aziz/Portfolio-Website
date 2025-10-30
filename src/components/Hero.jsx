@@ -29,7 +29,7 @@ const Hero = () => {
             Building Scalable Modern Websites for the Future
           </h2>
           <div className=" flex items-center gap-3">
-            <a href="https://drive.google.com/file/d/1Vv2d9VXapSR8Fc1nD3fJIF0QLNcfdpEr/view?usp=drive_link">
+            <a href="https://drive.google.com/file/d/1VvUq6igOHWMxTSpU8_JJ_e2CKjvk-1Ki/view?usp=sharing">
             <button className="btn flex btn-primary cursor-pointer text-zinc-700 font-bold">
               Dowload CV
               <img
