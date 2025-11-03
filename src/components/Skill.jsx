@@ -5,11 +5,6 @@ import SkillCard from "./SkillCard";
 const Skill = () => {
   const skillItem = [
     {
-      imgSrc: "/figma.svg",
-      label: "Figma",
-      desc: "Design tool",
-    },
-    {
       imgSrc: "/css3.svg",
       label: "CSS",
       desc: "User Interface",
